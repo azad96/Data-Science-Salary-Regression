@@ -1,6 +1,6 @@
 # Data Science Salary Prediction
 
-A Flask web service to predict salaries of people in data science field based on information about their job such as work year, experience level, job title, and so on. A Random Forest Regressor is used to predict the salaries.
+A Flask web service to predict salaries of people in data science field based on information about their job such as work year, experience level, job title, and so on. A Random Forest Regressor is used to predict the salaries. This repo is developed for the ML Zoomcamp Capstone 1 project.
 
 ## Technical Stack
 
